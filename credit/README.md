@@ -55,28 +55,7 @@ Este projeto aplica técnicas de Machine Learning para classificar clientes como
 
 ---
 
-## 🚀 Como Executar
 
-### Pré-requisitos
-
-- Python 3.8+
-- Jupyter Notebook ou JupyterLab
-
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/credit-risk-classification.git
-cd credit-risk-classification
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Inicie o Jupyter
-jupyter notebook Credit.ipynb
-```
-
----
 
 ## 📦 Dependências
 
@@ -133,10 +112,10 @@ statsmodels
 
 ## 👤 Autor
 
-**[Seu Nome]**  
-📧 [seu-email@email.com]  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🐙 [GitHub](https://github.com/seu-usuario)
+**[Artur Amasai]**  
+📧 [artur_amasai@hotmail.com]  
+🔗 [LinkedIn](https://linkedin.com/in/artur-amasai)  
+🐙 [GitHub](https://github.com/amasai-santos)
 
 ---
 
